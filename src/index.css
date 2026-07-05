@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --color-idbi-green: #006B3E;
+  --color-idbi-orange: #FF6600;
+  --color-idbi-green-dark: #004F2E;
+  --color-idbi-green-light: #00854D;
+}

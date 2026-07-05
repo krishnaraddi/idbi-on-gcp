@@ -1,0 +1,6 @@
+{
+  "name": "MSME Loan Scoring Platform",
+  "description": "An interactive MSME credit scoring platform utilizing UPI inflows, EPFO compliance, and GST filing rates. Evaluated with Gemini AI models for credit worthiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
